@@ -1,0 +1,5 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.bodybg{
+	-fx-background-image : url("/DailyAnnouncments/src/enchanting-anime-landscape-mistcovered-mountain-600nw-2301778699.webp");
+	-fx-background-size:100% 100%;
+}
